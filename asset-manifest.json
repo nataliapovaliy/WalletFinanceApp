@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WalletFinanceApp/static/css/main.06d5af1c.css",
-    "main.js": "/WalletFinanceApp/static/js/main.070cc928.js",
+    "main.js": "/WalletFinanceApp/static/js/main.477b3e13.js",
     "static/media/enot.png": "/WalletFinanceApp/static/media/enot.28f91c1fe2109ff5a33b.png",
     "static/media/login_desk_2x.png": "/WalletFinanceApp/static/media/login_desk_2x.d8f64e3e7c50a467da40.png",
     "static/media/reg_desk_2x.png": "/WalletFinanceApp/static/media/reg_desk_2x.b6bae1d47d97ecdda1c9.png",
@@ -18,10 +18,10 @@
     "static/media/exit-icon.svg": "/WalletFinanceApp/static/media/exit-icon.68a6430100c84f3315fe87a326c27dcc.svg",
     "static/media/delimetr.svg": "/WalletFinanceApp/static/media/delimetr.4197971255a4c6a047f2d568d14b817e.svg",
     "main.06d5af1c.css.map": "/WalletFinanceApp/static/css/main.06d5af1c.css.map",
-    "main.070cc928.js.map": "/WalletFinanceApp/static/js/main.070cc928.js.map"
+    "main.477b3e13.js.map": "/WalletFinanceApp/static/js/main.477b3e13.js.map"
   },
   "entrypoints": [
     "static/css/main.06d5af1c.css",
-    "static/js/main.070cc928.js"
+    "static/js/main.477b3e13.js"
   ]
 }
